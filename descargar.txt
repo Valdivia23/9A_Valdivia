@@ -1,0 +1,5 @@
+composer como si fuera npm
+php Slim
+Medoo
+JWT
+t1c5d3n3 PersonalUTT-Docencia
